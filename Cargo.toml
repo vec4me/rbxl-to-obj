@@ -1,7 +1,11 @@
 [package]
-name = "rbxl-to-obj"
+name = "rbx_obj"
 version = "0.1.0"
+authors = ["Jeffrey Skinner <jeff@je.gy>"]
 edition = "2024"
+description = "Convert Roblox places/models to obj"
+license = "MIT OR Apache-2.0"
+keywords = ["roblox", "rbx", "rblx", "rbxm"]
 
 [dependencies]
 rbx_binary = "2.0.0"
