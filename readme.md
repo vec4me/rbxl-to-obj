@@ -1,5 +1,5 @@
 # rblx-to-obj
-It's pretty self-explanatory, but you can also convert rbxm files. 'rbxlx-to-obj' was just a better name for marketing purposes. It only supports three primitives right now, but more are anticipated for the future, including meshes.
+It's pretty self-explanatory, but you can also convert rbxm files. 'rbxl-to-obj' was just a better name for marketing purposes. It only supports three primitives right now, but more are anticipated for the future, including meshes.
 
 ![](scene.png)
 
